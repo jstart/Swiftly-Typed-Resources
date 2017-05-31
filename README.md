@@ -1,7 +1,7 @@
 # Swiftly Typed Resources
 A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. Built with Xcode 7 beta 6.
 
-####[Follow me on Twitter @iAmChrisTruman](https://twitter.com/iAmChrisTruman) 
+#### [Follow me on Twitter @iAmChrisTruman](https://twitter.com/iAmChrisTruman) 
 ## Colors
 ![](Screenshots/Colors.png)
 ## Fonts
